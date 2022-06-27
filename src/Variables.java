@@ -1,4 +1,4 @@
-public class firstlesson{
+public class Variables{
     public static void main(String[] args) {
         byte b1=-100;
         System.out.println("byte="+b1);
@@ -13,21 +13,5 @@ public class firstlesson{
         boolean artem=true;
         boolean vika=false;
         System.out.println("artem and vika="+artem+""+vika);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
